@@ -20,9 +20,4 @@ This project demonstrates a simple **Linear Regression** model using Python's sc
 - seaborn
 - scikit-learn
 
-## 🚀 How to Run
 
-1. Clone the repo:
-```bash
-git clone https://github.com/fiercing-fury/Linear-Regression.git
-cd Linear-Regression
